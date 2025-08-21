@@ -1,6 +1,7 @@
-
-## title: Code Generation
-
+---
+title: Code Generation
+sidebar_label: Code Generation
+---
 
 
 :::tip[This is a notebook]
@@ -12,7 +13,7 @@
 :::
 
 
-## 
+
 
 # Code Generation using Weave and OpenAI
 

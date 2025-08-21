@@ -1,6 +1,7 @@
-
-## title: Log Feedback from Production
-
+---
+title: Log Feedback from Production
+sidebar_label: Log Feedback from Production
+---
 
 
 :::tip[This is a notebook]
@@ -12,7 +13,7 @@
 :::
 
 
-## 
+
 <!--- @wandbcode{feedback-colab} -->
 
 
